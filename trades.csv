@@ -1,0 +1,4 @@
+timestamp,trade_id,maker_order_id,taker_order_id,taker_side,price,quantity
+5,T-O5-1,O1,O5,SELL,100.00,30
+6,T-O6-1,O3,O6,BUY,101.00,100
+8,T-O7-1,O1,O7,SELL,100.00,40

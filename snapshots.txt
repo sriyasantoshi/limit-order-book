@@ -1,0 +1,11 @@
+=== ORDER BOOK SNAPSHOT ===
+Best Bid: 100.00 | Best Ask: 101.00 | Spread: 1.00
+Total Bid Vol: 30 | Total Ask Vol: 250
+----------------------------------------
+ ASKS (Lowest First):
+   Price:   101.00 | Vol:    100 | Orders: 1
+   Price:   101.50 | Vol:    150 | Orders: 1
+----------------------------------------
+ BIDS (Highest First):
+   Price:   100.00 | Vol:     30 | Orders: 1
+===========================
