@@ -243,6 +243,3 @@ To transition from ~30k ops/sec in pure Python to multi-million ops/sec performa
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
